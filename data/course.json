@@ -31,6 +31,7 @@
     "website": "9-56j-abnormal-language-fall-2004"
   },
   "course_title": "Abnormal Language",
+  "hide_download": true,
   "course_description": "Introduction to the linguistic study of language pathology, concentrating on experimental approaches and theoretical explanations. Discussion of Specific Language Impairment, autism, Down syndrome, Williams syndrome, normal aging, Parkinson's disease, Alzheimer's disease, hemispherectomy and aphasia. Focuses on the comparison of linguistic abilities among these syndromes, while drawing clear comparisons with first and second language acquisition. Topics include the lexicon, morphology, syntax, semantics and pragmatics. Relates the lost linguistic abilities in these syndromes to properties of the brain.\n",
   "department_numbers": [
     "9",
@@ -42,6 +43,7 @@
     "content": "1132c20a-574a-81a3-df58-e0e72d13c67c",
     "website": "9-56j-abnormal-language-fall-2004"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments",
     "Problem Sets"

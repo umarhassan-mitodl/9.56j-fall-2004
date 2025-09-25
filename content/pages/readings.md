@@ -79,7 +79,7 @@ L1: Finiteness
 
 {{< tdclose >}}{{< tdopen >}}
 
-Guasti, Maria T. Chapter 4, "The Emergence of Syntax." *Language Acquisition: the growth of grammar*. Cambridge, MA: MIT Press, 2002, pp. 101-150. ISBN: 9780262072229. \[{{% resource_link "020041d6-e44a-45a8-a880-5e59aaad28a7" "Buy at MIT Press" %}}\]
+Guasti, Maria T. Chapter 4, "The Emergence of Syntax." *Language Acquisition: the growth of grammar*. Cambridge, MA: MIT Press, 2002, pp. 101-150. ISBN: 9780262072229. \[[Buy at MIT Press](https://mitpress.mit.edu/9780262072229/language-acquisition/)\]
 
 Wexler, Kenneth. "Optional Infinitives, Head Movement and the Economy of Derivations." Chapter 14 in *Verb Movement.* Edited by David Lightfoot, and Norbert Hornstein. Cambridge; New York, NY, USA: Cambridge University Press, 1994, pp. 305-350. ISBN: 0521456614.
 
@@ -97,9 +97,9 @@ L1: Binding Theory
 
 {{< tdclose >}}{{< tdopen >}}
 
-Guasti, Maria T. Chapter 8, "Acquisition of Binding Principles." *Language Acquisition: the growth of grammar*. Cambridge, MA: MIT Press, 2002, Part 1. ISBN: 9780262072229. \[{{% resource_link "020041d6-e44a-45a8-a880-5e59aaad28a7" "Buy at MIT Press" %}}\]
+Guasti, Maria T. Chapter 8, "Acquisition of Binding Principles." *Language Acquisition: the growth of grammar*. Cambridge, MA: MIT Press, 2002, Part 1. ISBN: 9780262072229. \[[Buy at MIT Press](https://mitpress.mit.edu/9780262072229/language-acquisition/)\]
 
-———. Chapter 8, "Acquisition of Binding Principles." *Language Acquisition: the growth of grammar*. Cambridge, MA: MIT Press, 2002, Part 2. ISBN: 9780262072229. \[{{% resource_link "020041d6-e44a-45a8-a880-5e59aaad28a7" "Buy at MIT Press" %}}\]
+———. Chapter 8, "Acquisition of Binding Principles." *Language Acquisition: the growth of grammar*. Cambridge, MA: MIT Press, 2002, Part 2. ISBN: 9780262072229. \[[Buy at MIT Press](https://mitpress.mit.edu/9780262072229/language-acquisition/)\]
 
 Chien, Yu-Chin, and Kenneth Wexler. "Children's Knowledge of Locality Conditions in Binding as Evidence for the Modularity of Syntax and Pragmatics." *Language Acquisition* 1, no. 3 (1990): 225-295.
 
@@ -113,7 +113,7 @@ L1: A/A'-Movement
 
 {{< tdclose >}}{{< tdopen >}}
 
-Guasti, Maria T. Chapter 7, "Acquisition of A-Movement." *Language Acquisition: the growth of grammar*. Cambridge, MA: MIT Press, 2002. ISBN: 9780262072229. \[{{% resource_link "020041d6-e44a-45a8-a880-5e59aaad28a7" "Buy at MIT Press" %}}\]
+Guasti, Maria T. Chapter 7, "Acquisition of A-Movement." *Language Acquisition: the growth of grammar*. Cambridge, MA: MIT Press, 2002. ISBN: 9780262072229. \[[Buy at MIT Press](https://mitpress.mit.edu/9780262072229/language-acquisition/)\]
 
 Borer, Hagit, and Kenneth Wexler. "The Maturation of Syntax." In *Parameter Setting*. Edited by Thomas Roeper, and Edwin Williams. Dordrecht, Boston: D. Reidel Pub. Co., and Norwell; MA: Sold and distributed in the U.S.A. and Canada by Kluwer Academic Publishers, 1987. pp. 123-172. ISBN: 902772315X.
 

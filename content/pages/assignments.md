@@ -3,6 +3,8 @@ content_type: page
 description: This section provides details on the course assignments, including a
   problem set on syntax and a term paper.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -49,7 +51,7 @@ The paper should represent an opportunity for you to read outside of the class m
          
 4. Childes   
       
-    For those interested in conducting their own research, and especially for those who speak another language, you might consider undertaking an analysis of natural production data. A paper in this area would require examining speech transcripts for evidence of certain linguistic phenomena. Predictions should be made based on the material discussed in the course. The relationship of the predictions to the data should be thoroughly discussed. The CHILDES database ({{% resource_link "fd6717a5-4228-4a6f-b11c-998e3ba1b45a" "Child Language Date Exchange System (PDF)" %}}) contains transcript files for the following languages and disorders.   
+    For those interested in conducting their own research, and especially for those who speak another language, you might consider undertaking an analysis of natural production data. A paper in this area would require examining speech transcripts for evidence of certain linguistic phenomena. Predictions should be made based on the material discussed in the course. The relationship of the predictions to the data should be thoroughly discussed. The CHILDES database ([Child Language Date Exchange System (PDF)](http://www.cnts.ua.ac.be/~gillis/pdf/2014_CHILDES.pdf)) contains transcript files for the following languages and disorders.   
       
     - Castillian (SLI)
     - Dutch (SLI, DS, hearing impaired)
